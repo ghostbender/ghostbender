@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ghostbender
-- 👀 I’m interested in office type products and gaming
-- 🌱 I’m currently refreshing myself on C# and plan on learning JavaScript and Angular soon.
-- 💞️ I’m looking to collaborate on anything with C# or HTML5
+- 👋 Hi, Dakota Davis 
+- 👀 I’m interested in coding web and mobile applications. 
+- 🌱 I’m an avid learner of various frameworks. 
+- 💞️ I’m open to collaborate on projects using C#, Node.js, and Xamarin Forms. 
 - 📫 I can be reached at dakotabdavis@gmail.com
 
 <!---
